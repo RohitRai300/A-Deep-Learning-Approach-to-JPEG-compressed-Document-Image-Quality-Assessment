@@ -1,7 +1,7 @@
 # A-Deep-Learning-Approach-to-JPEG-compressed-Document-Image-Quality-Assessment
 Mtech (Jan-May21) Semester Project
 
-Project Title: \
+Project Title: 
 ### A Deep Learning Approach to JPEG Compressed Document Image Quality Assessment.
 
 #### Description of Directories: 
@@ -23,7 +23,7 @@ Project Title: \
 **Also Note that:** \
 All the directories contains separate README file for detailed instructions.
 \
-Thank You!! \
+Thank You!! 
 
 
 
@@ -33,4 +33,4 @@ Thank You!! \
 2nd Semester\
 Data Engineering\
 MTech(Information Technology)\
-Indian Institute of Information Technology, Allahabad, UP,India\
+Indian Institute of Information Technology, Allahabad, UP,India**
