@@ -35,5 +35,5 @@ Data Engineering\
 MTech(Information Technology)\
 Indian Institute of Information Technology, Allahabad, UP,India**
 
-**Under the supervision of:\
+**This work was done under the supervision of:\
 Dr. Mohammad Javed**
