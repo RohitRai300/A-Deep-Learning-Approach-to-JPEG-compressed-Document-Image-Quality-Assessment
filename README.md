@@ -26,7 +26,7 @@ All the directories contains separate README file for detailed instructions.
 Thank You!! 
 
 
-**This work was done under the supervision of:\
+**This work was done under the supervision of:
 Dr. Mohammad Javed**
 
 
