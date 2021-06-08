@@ -19,18 +19,18 @@ Description of Directories:
 6) Screenshots and Analysis  : It contains Images(working demo, preprocessing output, etc.)
 
 
-
-Also Note that:
+\
+Also Note that:\
 All the directories contains separate README file for detailed instructions.
-
-Thank You!!
+\
+Thank You!!\
 
 
 
 Author:
 
-Rohit Rai - MIT2020098
-2nd Semester
-Data Engineering
-MTech(Information Technology - Data Engineering)
-Indian Institute of Information Technology, Allahabad, UP,India
+Rohit Rai - MIT2020098\
+2nd Semester\
+Data Engineering\
+MTech(Information Technology)\
+Indian Institute of Information Technology, Allahabad, UP,India\
