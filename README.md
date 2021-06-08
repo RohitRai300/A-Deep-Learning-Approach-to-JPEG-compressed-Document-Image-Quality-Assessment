@@ -33,4 +33,7 @@ Thank You!!
 2nd Semester\
 Data Engineering\
 MTech(Information Technology)\
-Indian Institute of Information Technology, Allahabad, UP,India**
+Indian Institute of Information Technology, Allahabad, UP,India\**
+
+**Under the supervision of:\
+Dr. Mohammad Javed Sir**
